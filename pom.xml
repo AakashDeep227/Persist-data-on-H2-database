@@ -12,7 +12,7 @@
 	<artifactId>onlinestore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Online Store Case Study</name>
-	<description>Online Store Case Study</description>
+	<description>Online Store Case Studies</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
